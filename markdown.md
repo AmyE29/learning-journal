@@ -10,9 +10,9 @@ A text editor is a tool that lets you write and manage text on a web site
 Some text editors available:
 * Notepad++
 + Text Wrangler
-= Visual Studio Code
-@ Atom
-: Brackets
++ Visual Studio Code
++ Atom
++ Brackets
 
 #### Terminal Commands:
 - ls - list content of a directory
