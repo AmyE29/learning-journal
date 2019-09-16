@@ -1,7 +1,7 @@
 ## What is a Text Editor?
 A text editor is a tool that lets you write and manage text on a web site
 Important features include:
-- code compliation
+- code compilation
 - syntax highlighting
 - a nice variety of themes
 - a variety of selection of extensions 
