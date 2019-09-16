@@ -17,6 +17,7 @@ My name is Amy.  I have a bachelors degree in marketing, but have been a stay at
 - I have 4 kids, 3 boys and 1 girl
 - I live in West Seattle
 - I have a pet bunny named Honey
+
 ![cute bunny](https://img.buzzfeed.com/buzzfeed-static/static/campaign_images/webdr06/2013/6/26/15/the-33-most-important-bunny-gifs-on-the-internet-1-11111-1372275498-8_big.jpg)
 - I used to be a serious runner, but have gotten lazy lately
 - I'm super excited to be in this new phase of my life :smiley:
