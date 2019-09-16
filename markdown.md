@@ -13,7 +13,7 @@ Some text editors available:
 - Atom
 - Brackets
 
-Termianl Commands:
+Terminal Commands:
 - ls - list content of a directory
 - pwd - print working directory (where you are currently)
 - cd - change directory (cd.. takes up a level,  cd../.. takes up 2 levels)
