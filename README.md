@@ -1,6 +1,6 @@
 # Amy Evans' Growth Mindset
 
-Growth Mindset is the belief that anyone can learn and change their abiiities with hard work and effort.
+Growth Mindset is the belief that anyone can learn and change their abilities with hard work and effort.
 For me growth mindset is not being afraid to try new things, I can grow by trial and error.  I have not *yet* learned all the things that I am capable of learning.
 
 ## ***What keeps me in growth mindset***
