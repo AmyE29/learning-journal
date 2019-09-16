@@ -20,5 +20,5 @@ My name is Amy.  I have a bachelors degree in marketing, but have been a stay at
 - I used to be a serious runner, but have gotten lazy lately
 - I'm super excited to be in this new phaase of my life :smiley:
 
-https://github.com/AmyE29/learning-journal
+https://amye29.github.io/learning-journal/
 
