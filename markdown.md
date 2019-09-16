@@ -8,7 +8,7 @@ A text editor is a tool that lets you write and manage text on a web site
 - a variety of selection of extensions 
 
 Some text editors available:
-- Notepad++
+* Notepad++
 - Text Wrangler
 - Visual Studio Code
 - Atom
