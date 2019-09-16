@@ -1,4 +1,4 @@
-##What is a text Editor?
+## What is a text Editor?
 A text editor is a tool that lets you write and manage text on a web site
 Important features include:
 - code compliation
@@ -14,9 +14,19 @@ Some text editors available:
 - Brackets
 
 Termianl Commands:
-ls - list, shows current location
-pwd - print working directory
-cd
+ls - list content of a directory
+- ls Documents
+pwd - print working directory (where you are currently)
+cd - change directory 
+- cd.. takes up a level
+- cd../.. takes up 2 levels
+touch file name
+mk dir directory name - makes a directory
+mv - move
+cp - copy
+
+up and down arrows let you see past and last commands
+
 
 
 
