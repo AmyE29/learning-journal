@@ -21,3 +21,4 @@ My name is Amy.  I have a bachelors degree in marketing, but have been a stay at
 - I'm super excited to be in this new phaase of my life :smiley:
 
 https://github.com/AmyE29/learning-journal
+
