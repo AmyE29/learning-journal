@@ -1,6 +1,7 @@
 ## What is a Text Editor?
 A text editor is a tool that lets you write and manage text on a web site
-Important features include:
+
+### Important features include:
 - code compilation
 - syntax highlighting
 - a nice variety of themes
@@ -13,12 +14,15 @@ Some text editors available:
 - Atom
 - Brackets
 
-Terminal Commands:
+#### Terminal Commands:
 - ls - list content of a directory
 - pwd - print working directory (where you are currently)
 - cd - change directory (cd.. takes up a level,  cd../.. takes up 2 levels)
-- touch file name
-- mk dir directory name - makes a directory
+- open "filename"
+- touch "file name"
+- mkdir directory name - makes a directory
+- rmdir - removes a directory
+- clear - clears screen of previous commands
 - mv - move
 - cp - copy
 
