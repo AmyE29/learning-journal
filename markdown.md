@@ -1,5 +1,5 @@
 ## What is a Text Editor?
-A text editor is a tool that lets you write and manage text on a web site
+A text editor is a tool that lets you write and manage text on a web site. 
 
 ### Important features include:
 - code compilation
@@ -7,7 +7,7 @@ A text editor is a tool that lets you write and manage text on a web site
 - a nice variety of themes
 - a variety of selection of extensions 
 
-Some text editors available:
+**Some text editors available:**
 * Notepad++
 + Text Wrangler
 + Visual Studio Code
@@ -16,6 +16,7 @@ Some text editors available:
 
 #### Terminal Commands:
 - ls - list content of a directory
+- ls-a - lists subfiles within the content of the directory
 - pwd - print working directory (where you are currently)
 - cd - change directory (cd.. takes up a level,  cd../.. takes up 2 levels)
 - open "filename"
