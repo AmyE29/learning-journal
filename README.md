@@ -11,15 +11,18 @@ For me growth mindset is not being afraid to try new things, I can grow by trial
 
 ### About Me
 
-My name is Amy.  I have a bachelors degree in marketing, but have been a stay at home mom for the past 15 years.  I need to go back to work now and am starting over with a brand new career plan. 
+My name is Amy.  I have a bachelors degree in marketing, but have been a stay at home mom for the past 15 years.  
+I need to go back to work now and am starting over with a brand new career plan. 
 
 #### Fun Facts
-- I have 4 kids, 3 boys and 1 girl
+- I have 4 kids, 3 boys and 1 girl, ages 15, 13 and 10 year old twins 
 - I live in West Seattle
+- I have a mied breed dog named Penny
 - I have a pet bunny named Honey
 
 ![cute bunny](https://upload.wikimedia.org/wikipedia/commons/0/01/Bunny_in_box.jpg)
 - I used to be a serious runner, but have gotten lazy lately
+- I drink to much coffee
 - I'm super excited to be in this new phase of my life :smiley:
 
 [My Proile](https://github.com/AmyE29)
