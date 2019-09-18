@@ -9,7 +9,7 @@ CSS rules usual appear in a seperate document that you link to you HTML page.
 - change the background color
 - place images with in that "box"
 
-###CSS also allows you to control text
+### CSS also allows you to control text
 - typeface
 - size
 - color
