@@ -23,7 +23,6 @@ if (hourNow > 18) {
 } else {
     greeting = 'Welcome!';
 }
-```
 document.write('<h3>' + greeting + '</h3>');
 
 To link to a javascript file from a HTML page, you use the <script> element to tell the brouser that it is coming across as a script. 
