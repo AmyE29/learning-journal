@@ -1,9 +1,9 @@
-#Understanding CSS
+# Understanding CSS
 
 CSS allows you to create rules that control the way that each individual HTML element is presented.
 CSS rules usual appear in a seperate document that you link to you HTML page.
 
-##Each HTML element is in an invisible box, CSS lets you
+## Each HTML element is in an invisible box, CSS lets you
 - control the width and height
 - add borders
 - change the background color
