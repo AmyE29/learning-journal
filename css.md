@@ -35,10 +35,15 @@ There are 3 ways to specify colors:
 There are 147 predefined color names that are recognized by browsers.  To choose a different color you may have to you a color picker tool to get the hex code or RGB value for that particular color.
 
 CSS3 had indroduced an opacity property that you can add to any element.  
-    p {background-color: rgb(50, 164, 168);
-       opacity: 0.5;}
+    p {background-color: 
+        rgb(50, 164, 168);
+        opacity: 0.5;
+        }
+        
 Or you can do this by using RGBA 
-    p {background-color: rgba(50, 164, 168.5);}
+    p {background-color: 
+        rgba(50, 164, 168.5);
+        }
 
 CSS3 has also added HSL, which lets you control the hue, saturation and lightness of values.
     body {
