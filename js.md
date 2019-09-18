@@ -10,7 +10,7 @@ The 3 layers form the approach called *pregressive enhancement*.
 
 #### A basic javascript is written in plain text.
 
-    ```var today = new Date();
+    var today = new Date();
     var hourNow = today.getHours();
     var greeting;
 
@@ -27,7 +27,7 @@ The 3 layers form the approach called *pregressive enhancement*.
 
 To link to a javascript file from a HTML page, you use the <script> element to tell the brouser that it is coming across as a script. 
 
-    ```<script scr="js/add-content.js"></script>
+   <script scr="js/add-content.js"></script>
  
  
  
