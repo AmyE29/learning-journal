@@ -1,4 +1,4 @@
-#Learning Loops
+# Learning Loops
 
 Loops check a condition.  If the condition returns true, a code block will run.  The condition will be continued to be checked, and as long as it's true, the code will run again.  If the condition returns false, the code will stop.
 
@@ -15,8 +15,10 @@ this means that since your vaiable i has the value of zero, it is less than 10, 
 For loops are typically used when the number of iterations is known before entering the loop.
 
 And example of a **while** loop is:
+
     var answer = ''
     while (answer === ''){
         prompt ('Do you like dogs?';)
     }
+    
 While loops are more dynamic, than for loops,s and you usually use them for lists or until a certain expression meets a criteria.
