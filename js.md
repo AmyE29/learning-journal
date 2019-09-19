@@ -1,6 +1,6 @@
 # Dynamic web pages with JavaScript
 
-The 3 layers of web pages are
+## The 3 layers of web pages are
 
 - HTML(.html): the content layer
 - CSS(.css): the presentation layer
@@ -8,23 +8,26 @@ The 3 layers of web pages are
 
 The 3 layers form the approach called *pregressive enhancement*.
 
-A basic javascript is written in plain text.
-```
-var today = new Date();
-var hourNow = today.getHours();
-var greeting;
+#### A basic javascript is written in plain text.
 
-if (hourNow > 18) {
-    greeting = 'Good evening!';
-} else if (hourNow > 12) {
-    greeting = 'Good afternoon!';
-} else if (hourNow > 0) {
-    greeting = 'Good morning!';
-} else {
-    greeting = 'Welcome!';
-}
-document.write('<h3>' + greeting + '</h3>');
+    var today = new Date();
+    var hourNow = today.getHours();
+    var greeting;
 
-To link to a javascript file from a HTML page, you use the <script> element to tell the brouser that it is coming across as a script. 
+    if (hourNow > 18) {
+      greeting = 'Good evening!';
+    } else if (hourNow > 12) {
+     greeting = 'Good afternoon!';
+    } else if (hourNow > 0) {
+        greeting = 'Good morning!';
+    } else {
+     greeting = 'Welcome!';
+    }
+    document.write('<h3>' + greeting + '</h3>');
 
- <script scr="js/add-content.js"></script>
+To link to a javascript file from a HTML page, you use the <script> element to tell the brouser that it is coming across as a script, like this: 
+
+    <script scr="js/add-content.js"></script>
+ 
+ 
+ 
