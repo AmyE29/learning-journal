@@ -22,3 +22,6 @@ And example of a **while** loop is:
     }
     
 While loops are more dynamic, than for loops,s and you usually use them for lists or until a certain expression meets a criteria.
+
+# How computers work videos
+i found the videos very interesting.  I used to work for a company that used to manufacture microprocesor emulators, so I baically knew the bones of how computers worked.  But explaining how the computer breaks down picutures and souund into binary was really interesting. I had heard all of these terms before, but this put it all into a nicely framed package, that made it all finally make sense to me.
