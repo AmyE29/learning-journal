@@ -29,7 +29,7 @@ i found the videos very interesting.  I used to work for a company that used to 
 But what makes a computer work is these 4 things:
 1. Input
 2. Storage
-3. Processing
+3. Processing
 4. Output
 
 There are many types of input: 
