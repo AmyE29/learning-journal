@@ -1,0 +1,40 @@
+**Learning Handlebars**
+
+Adding handelbars to your project requires you to add the following script to your HTML page
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.js"></script>
+    
+From there you create a template in your HTML page, this needs to be done in a <script> tag, with a special ID so your browser doesn't try to read it like a JavaScript file. In this you wrap your expressions in {{ }} double (or triple) curly braces.
+
+    <script id = "my-template" type ="text/x-handlebars-template">
+        {{name}}
+        {{age}}
+        {{gender}}
+    </script>
+    
+**Flexbox**
+Flexbox is flexible in the way it lays things out - both horizontally and vertically You can specify whether you want the containers to show up left to right(or right to left) in a row,
+
+    .container { 
+      flex-direction: row (or row-reverse):
+    }
+
+or top to bottom(bottom to top) in a column.
+
+    .container { 
+      flex-direction: column (or column-reverse): 
+    }
+
+You can use it to fix your spacing: 
+
+    .container { 
+        justify-content:space-evenly
+     } 
+
+The biggest relief for me is being able to center vertically easily: 
+
+    .container { 
+        align-items: center
+    }
+
+Containers inside of containers can also be Flexboxes.
